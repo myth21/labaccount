@@ -1,0 +1,99 @@
+/*** Overwrite ***/
+body {
+    background: #FFF;
+}
+.navbar-laravel {
+    background: #EEE;
+    box-shadow: none;
+    border-bottom: 1px solid #DDD;
+}
+.nav {
+    border: 1px solid #EEE;
+    border-radius: 5px;
+}
+a.active {
+    color: #000;
+}
+.control-label {
+    margin-top: .5rem;
+    margin-bottom: 0;
+}
+
+/*** Helper ***/
+.smallFont {
+    font-size: small;
+}
+.xSmallFont {
+    font-size: x-small;
+}
+.padding0 {
+    padding: 0 !important;
+}
+.margin10 {
+    margin: 10px;
+}
+.marginTop10 {
+    margin-top: 10px;
+}
+.marginBottom10 {
+    margin-bottom: 10px;
+}
+.marginTop20 {
+    margin-top: 20px;
+}
+.marginBottom20 {
+    margin-bottom: 20px;
+}
+.whiteFont {
+    color: #FFF !important;
+}
+.width100 {
+    width: 100px;
+}
+.width300 {
+    width: 300px;
+}
+.clear10 {
+    clear: both;
+    height: 10px;
+}
+.clear20 {
+    clear: both;
+    height: 20px;
+}
+.clearDotted20 {
+    clear: both;
+    height: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px dotted #EEE;
+}
+.borderTopDotted {
+    border-top: 1px dotted #EEE !important;
+}
+.borderRightDotted {
+    border-right: 1px dotted #EEE !important;
+}
+.borderBottomDotted {
+    border-bottom: 1px dotted #EEE !important;
+}
+.borderLeftDotted {
+    border-left: 1px dotted #EEE !important;
+}
+.clear100 {
+    clear: both;
+    height: 100px;
+}
+li.unstyled {
+    list-style: none;
+}
+.table-borderless td.borderDotted {
+    border: 1px dotted #EEE;
+}
+.quote {
+    border-left: 2px solid #DDD;
+    background: #FAFAFA;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+}

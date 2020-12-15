@@ -1,0 +1,14 @@
+{
+  "Login": "Вход",
+  "Name": "Имя",
+  "FIO": "ФИО",
+  "Enter": "Войти",
+  "Logout": "Выйти",
+  "Password": "Пароль",
+  "Confirm Password": "Подтвердите Пароль",
+  "Register": "Регистрация",
+  "Forgot Your Password?": "Забыли пароль?",
+  "Remember Me": "Запомнить меня",
+  "SuccessOperation": "Операция успешно выполнена",
+  "FailedOperation": "Ошибка при выполнении операции"
+}
