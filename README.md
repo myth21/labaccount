@@ -1,3 +1,5 @@
+An outdated app example for passing student laboratory works.
+
 Install
 
 ```bash
